@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c3c8135f-2dc3-4603-b660-201d31934191" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spec/calculator_spec.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spec/calculator_spec.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -316,9 +315,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="RSpec.Calculator" />
         <item itemvalue="RSpec.Calculator sum two negative numbers" />
         <item itemvalue="RSpec.Calculator sum tow numbers with one being negative " />
+        <item itemvalue="RSpec.Calculator" />
+        <item itemvalue="RSpec.Calculator" />
+        <item itemvalue="RSpec.Calculator sum two negative numbers" />
       </list>
     </recent_temporary>
   </component>
