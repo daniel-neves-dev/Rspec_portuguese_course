@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require "implicit_subject"
 
 RSpec.describe String do
