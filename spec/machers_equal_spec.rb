@@ -1,14 +1,18 @@
-RSpec.describe  " Machers"do
+require "machers_equal"
+
+RSpec.describe MarchersEqual do
   it "'equal' or 'be' check it is the same object" do
-    x = "ruby"
-    y = "ruby"
-    expect(x).to equal(x)
-    expect(x).not_to equal(y)
+    v1 = "ruby"
+    v2 = "ruby"
+    expect(v1).to equal(v1)
+    expect(v1).not_to be(v2)
   end
 
-  it "'eql' or 'eq' ckeque is has the same value" do
-    x = "ruby"
-    y = "ruby"
-    expect(x).to eq(y)
+  it "'eql' or 'eq' check it has the same value" do
+    v1 = "ruby"
+    v2 = "ruby"
+    expect(v1).to eq(v2)
+    expect(v2).to eql(v1)
   end
 end
+
