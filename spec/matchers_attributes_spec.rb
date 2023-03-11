@@ -8,9 +8,9 @@ RSpec.describe Person::Informations do
     new_person.name = "Daniel"
     new_person.age = 40
 
-  it "have attributes" do
-    expect(new_person).to have_attributes(name: "Daniel", age: 40)
-  end
+    it "have attributes" do
+      expect(new_person).to have_attributes(name: "Daniel", age: 40)
+    end
 
     it "detailed attributes" do
       expect(new_person).to have_attributes(name: start_with("D"), age: (be > 30))

@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93ff2f8b-4252-4ae4-b950-a3d0b2a58a1d" name="Changes" comment="build: collection matchers">
-      <change beforePath="$PROJECT_DIR$/lib/collection_matchers.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/collection_matchers.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spec/collection_matchers_spec.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spec/collection_matchers_spec.rb" afterDir="false" />
-    </list>
+    <list default="true" id="93ff2f8b-4252-4ae4-b950-a3d0b2a58a1d" name="Changes" comment="build: collection matchers" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +19,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="test_all" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -368,6 +365,7 @@
     <SUITE FILE_PATH="coverage/Rspec_portuguese_course@calculator_spec.rcov" NAME="calculator_spec Coverage Results" MODIFIED="1677883351244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Rspec_portuguese_course" />
     <SUITE FILE_PATH="coverage/Rspec_portuguese_course@Hello.rcov" NAME="Hello Coverage Results" MODIFIED="1678574594013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Rspec_portuguese_course" />
     <SUITE FILE_PATH="coverage/Rspec_portuguese_course@Person__Informations_have_attributes.rcov" NAME="Person::Informations have attributes Coverage Results" MODIFIED="1678570476335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Rspec_portuguese_course" />
+    <SUITE FILE_PATH="coverage/Rspec_portuguese_course@TestAll.rcov" NAME="TestAll Coverage Results" MODIFIED="1678577150327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Rspec_portuguese_course" />
     <SUITE FILE_PATH="coverage/Rspec_portuguese_course@Hello_print.rcov" NAME="Hello print Coverage Results" MODIFIED="1678574093344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Rspec_portuguese_course" />
     <SUITE FILE_PATH="coverage/Rspec_portuguese_course@matchers_arrays_spec.rcov" NAME="matchers_arrays_spec Coverage Results" MODIFIED="1678572437609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Rspec_portuguese_course" />
     <SUITE FILE_PATH="coverage/Rspec_portuguese_course@Calculator.rcov" NAME="Calculator Coverage Results" MODIFIED="1677884286562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Rspec_portuguese_course" />
