@@ -1,5 +1,5 @@
 class Hello
-  def greating
+  def sentence
     "Hello everybody"
   end
 end

@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93ff2f8b-4252-4ae4-b950-a3d0b2a58a1d" name="Changes" comment="deleted: calculator">
-      <change beforePath="$PROJECT_DIR$/.idea/Rspec_portuguese_course.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Rspec_portuguese_course.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="93ff2f8b-4252-4ae4-b950-a3d0b2a58a1d" name="Changes" comment="test: have attributes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hello_teste.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hello_teste.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/hello_teste_spec.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spec/hello_teste_spec.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,8 +69,8 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="RSpec.Person::Informations Attributes detailed attributs">
-    <configuration name="Person::Datas" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="RSpec.Hello">
+    <configuration name=" Array #contain exactly " type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true" nameIsGenerated="true">
       <module name="Rspec_portuguese_course" />
       <predefined_log_file enabled="true" id="RUBY_RSPEC" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
@@ -89,11 +89,11 @@
       </EXTENSION>
       <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/matchers_attributes_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/matchers_arrays_spec.rb" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATHS" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Person::Datas" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE=" Array #contain exactly " />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
@@ -104,7 +104,7 @@
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Person::Informations Attributes detailed attributs" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true" nameIsGenerated="true">
+    <configuration name=" Array #match array" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true" nameIsGenerated="true">
       <module name="Rspec_portuguese_course" />
       <predefined_log_file enabled="true" id="RUBY_RSPEC" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
@@ -123,11 +123,11 @@
       </EXTENSION>
       <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/matchers_attributes_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/matchers_arrays_spec.rb" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATHS" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Person::Informations Attributes detailed attributs" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE=" Array #match array" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
@@ -138,7 +138,7 @@
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Person::Informations Attributes have attributes" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true" nameIsGenerated="true">
+    <configuration name="Hello print (1)" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true" nameIsGenerated="true">
       <module name="Rspec_portuguese_course" />
       <predefined_log_file enabled="true" id="RUBY_RSPEC" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
@@ -157,11 +157,11 @@
       </EXTENSION>
       <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/matchers_attributes_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/hello_teste_spec.rb" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATHS" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Person::Informations Attributes have attributes" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Hello subject||Hello print" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
@@ -172,7 +172,7 @@
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Person::Informations have attributes" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true" nameIsGenerated="true">
+    <configuration name="Hello print" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true" nameIsGenerated="true">
       <module name="Rspec_portuguese_course" />
       <predefined_log_file enabled="true" id="RUBY_RSPEC" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
@@ -191,11 +191,11 @@
       </EXTENSION>
       <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/matchers_attributes_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/hello_teste_spec.rb" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATHS" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Person::Informations have attributes" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Hello print" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
@@ -206,7 +206,7 @@
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Person::Informations" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true" nameIsGenerated="true">
+    <configuration name="Hello" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true" nameIsGenerated="true">
       <module name="Rspec_portuguese_course" />
       <predefined_log_file enabled="true" id="RUBY_RSPEC" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
@@ -225,11 +225,11 @@
       </EXTENSION>
       <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/matchers_attributes_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/hello_teste_spec.rb" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATHS" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Person::Informations" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="Hello" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
@@ -242,11 +242,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="RSpec.Person::Informations Attributes detailed attributs" />
-        <item itemvalue="RSpec.Person::Informations Attributes have attributes" />
-        <item itemvalue="RSpec.Person::Informations have attributes" />
-        <item itemvalue="RSpec.Person::Informations" />
-        <item itemvalue="RSpec.Person::Datas" />
+        <item itemvalue="RSpec.Hello" />
+        <item itemvalue="RSpec.Hello print (1)" />
+        <item itemvalue="RSpec.Hello print" />
+        <item itemvalue="RSpec. Array #match array" />
+        <item itemvalue="RSpec. Array #contain exactly " />
       </list>
     </recent_temporary>
   </component>
@@ -270,7 +270,7 @@
       <workItem from="1678561999162" duration="22000" />
       <workItem from="1678568513001" duration="1036000" />
       <workItem from="1678569555616" duration="56000" />
-      <workItem from="1678569618593" duration="971000" />
+      <workItem from="1678569618593" duration="4889000" />
     </task>
     <task id="LOCAL-00001" summary="document">
       <created>1677963915100</created>
@@ -293,7 +293,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678367189640</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="build: have attributes">
+      <created>1678570713649</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678570713649</updated>
+    </task>
+    <task id="LOCAL-00005" summary="test: have attributes">
+      <created>1678570722660</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678570722660</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -314,30 +328,39 @@
     <MESSAGE value="document" />
     <MESSAGE value="test: machers equal" />
     <MESSAGE value="deleted: calculator" />
-    <option name="LAST_COMMIT_MESSAGE" value="deleted: calculator" />
+    <MESSAGE value="build: have attributes" />
+    <MESSAGE value="test: have attributes" />
+    <option name="LAST_COMMIT_MESSAGE" value="test: have attributes" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Rspec_portuguese_course@Person__Informations_Attributes_detailed_attributs.rcov" NAME="Person::Informations Attributes detailed attributs Coverage Results" MODIFIED="1678570628744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Rspec_portuguese_course" />
+    <SUITE FILE_PATH="coverage/Rspec_portuguese_course@calculator_spec.rcov" NAME="calculator_spec Coverage Results" MODIFIED="1677883351244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Rspec_portuguese_course" />
+    <SUITE FILE_PATH="coverage/Rspec_portuguese_course@Hello.rcov" NAME="Hello Coverage Results" MODIFIED="1678574446751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Rspec_portuguese_course" />
+    <SUITE FILE_PATH="coverage/Rspec_portuguese_course@Person__Informations_have_attributes.rcov" NAME="Person::Informations have attributes Coverage Results" MODIFIED="1678570476335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Rspec_portuguese_course" />
+    <SUITE FILE_PATH="coverage/Rspec_portuguese_course@Hello_print.rcov" NAME="Hello print Coverage Results" MODIFIED="1678574093344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Rspec_portuguese_course" />
+    <SUITE FILE_PATH="coverage/Rspec_portuguese_course@matchers_arrays_spec.rcov" NAME="matchers_arrays_spec Coverage Results" MODIFIED="1678572437609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Rspec_portuguese_course" />
+    <SUITE FILE_PATH="coverage/Rspec_portuguese_course@Calculator.rcov" NAME="Calculator Coverage Results" MODIFIED="1677884286562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Rspec_portuguese_course" />
+    <SUITE FILE_PATH="coverage/Rspec_portuguese_course@_Machers.rcov" NAME=" Machers Coverage Results" MODIFIED="1677964432248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Rspec_portuguese_course" />
+    <SUITE FILE_PATH="coverage/Rspec_portuguese_course@StartEndWith.rcov" NAME="StartEndWith Coverage Results" MODIFIED="1678033330182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Rspec_portuguese_course" />
+    <SUITE FILE_PATH="coverage/Rspec_portuguese_course@Array.rcov" NAME="Array Coverage Results" MODIFIED="1678572383861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Rspec_portuguese_course" />
+    <SUITE FILE_PATH="coverage/Rspec_portuguese_course@StartEndWith_Check__start__and__end__with_check__end_with_.rcov" NAME="StartEndWith Check 'start' and 'end' with check 'end_with' Coverage Results" MODIFIED="1678033566625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Rspec_portuguese_course" />
+    <SUITE FILE_PATH="coverage/Rspec_portuguese_course@RspecPortugueseCourse_has_a_version_number.rcov" NAME="RspecPortugueseCourse has a version number Coverage Results" MODIFIED="1677858663836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Rspec_portuguese_course" />
     <SUITE FILE_PATH="coverage/Rspec_portuguese_course@Calculator_sum_two_negative_numbers.rcov" NAME="Calculator sum two negative numbers Coverage Results" MODIFIED="1677883399280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Rspec_portuguese_course" />
     <SUITE FILE_PATH="coverage/Rspec_portuguese_course@MarchersEqual.rcov" NAME="MarchersEqual Coverage Results" MODIFIED="1678025799920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Rspec_portuguese_course" />
     <SUITE FILE_PATH="coverage/Rspec_portuguese_course@StartEndWith_Check__start__and__end__with_check__start_with_.rcov" NAME="StartEndWith Check 'start' and 'end' with check 'start_with' Coverage Results" MODIFIED="1678033561092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Rspec_portuguese_course" />
     <SUITE FILE_PATH="coverage/Rspec_portuguese_course@Calculator_sum_tow_numbers_with_one_being_negative_.rcov" NAME="Calculator sum tow numbers with one being negative  Coverage Results" MODIFIED="1677883391770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Rspec_portuguese_course" />
     <SUITE FILE_PATH="coverage/Rspec_portuguese_course@String.rcov" NAME="String Coverage Results" MODIFIED="1677941132465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Rspec_portuguese_course" />
-    <SUITE FILE_PATH="coverage/Rspec_portuguese_course@Person__Informations_Attributes_detailed_attributs.rcov" NAME="Person::Informations Attributes detailed attributs Coverage Results" MODIFIED="1678570580510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Rspec_portuguese_course" />
-    <SUITE FILE_PATH="coverage/Rspec_portuguese_course@calculator_spec.rcov" NAME="calculator_spec Coverage Results" MODIFIED="1677883351244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Rspec_portuguese_course" />
+    <SUITE FILE_PATH="coverage/Rspec_portuguese_course@_Array__match_array.rcov" NAME=" Array #match array Coverage Results" MODIFIED="1678572648917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Rspec_portuguese_course" />
     <SUITE FILE_PATH="coverage/Rspec_portuguese_course@MatchersComparison_Matchers_of_comparison_check__exclusive_.rcov" NAME="MatchersComparison Matchers of comparison check 'exclusive' Coverage Results" MODIFIED="1678031983269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Rspec_portuguese_course" />
-    <SUITE FILE_PATH="coverage/Rspec_portuguese_course@Person__Informations_have_attributes.rcov" NAME="Person::Informations have attributes Coverage Results" MODIFIED="1678570476335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Rspec_portuguese_course" />
     <SUITE FILE_PATH="coverage/Rspec_portuguese_course@Person__Datas.rcov" NAME="Person::Datas Coverage Results" MODIFIED="1678570115044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Rspec_portuguese_course" />
     <SUITE FILE_PATH="coverage/Rspec_portuguese_course@_Machers__eql__or__eq__ckeque_is_has_the_same_value.rcov" NAME=" Machers 'eql' or 'eq' ckeque is has the same value Coverage Results" MODIFIED="1677964799965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Rspec_portuguese_course" />
-    <SUITE FILE_PATH="coverage/Rspec_portuguese_course@Calculator.rcov" NAME="Calculator Coverage Results" MODIFIED="1677884286562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Rspec_portuguese_course" />
     <SUITE FILE_PATH="coverage/Rspec_portuguese_course@hello_teste_spec.rcov" NAME="hello_teste_spec Coverage Results" MODIFIED="1677860269382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Rspec_portuguese_course" />
-    <SUITE FILE_PATH="coverage/Rspec_portuguese_course@_Machers.rcov" NAME=" Machers Coverage Results" MODIFIED="1677964432248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Rspec_portuguese_course" />
-    <SUITE FILE_PATH="coverage/Rspec_portuguese_course@StartEndWith.rcov" NAME="StartEndWith Coverage Results" MODIFIED="1678033330182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Rspec_portuguese_course" />
+    <SUITE FILE_PATH="coverage/Rspec_portuguese_course@_Array__contain_exactly_.rcov" NAME=" Array #contain exactly  Coverage Results" MODIFIED="1678572590893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Rspec_portuguese_course" />
+    <SUITE FILE_PATH="coverage/Rspec_portuguese_course@Hello_print__1_.rcov" NAME="Hello print (1) Coverage Results" MODIFIED="1678574141798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Rspec_portuguese_course" />
     <SUITE FILE_PATH="coverage/Rspec_portuguese_course@_Machers__equal__or__be__check_the_same_object.rcov" NAME=" Machers 'equal' or 'be' check the same object Coverage Results" MODIFIED="1677964417039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Rspec_portuguese_course" />
     <SUITE FILE_PATH="coverage/Rspec_portuguese_course@MatchersComparison.rcov" NAME="MatchersComparison Coverage Results" MODIFIED="1678030280381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Rspec_portuguese_course" />
-    <SUITE FILE_PATH="coverage/Rspec_portuguese_course@StartEndWith_Check__start__and__end__with_check__end_with_.rcov" NAME="StartEndWith Check 'start' and 'end' with check 'end_with' Coverage Results" MODIFIED="1678033566625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Rspec_portuguese_course" />
     <SUITE FILE_PATH="coverage/Rspec_portuguese_course@Person__Informations_Attributes_have_attributes.rcov" NAME="Person::Informations Attributes have attributes Coverage Results" MODIFIED="1678570571328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Rspec_portuguese_course" />
-    <SUITE FILE_PATH="coverage/Rspec_portuguese_course@RspecPortugueseCourse_has_a_version_number.rcov" NAME="RspecPortugueseCourse has a version number Coverage Results" MODIFIED="1677858663836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Rspec_portuguese_course" />
     <SUITE FILE_PATH="coverage/Rspec_portuguese_course@MatchersComparison_Matchers_of_comparison_check__inclusive_.rcov" NAME="MatchersComparison Matchers of comparison check 'inclusive' Coverage Results" MODIFIED="1678031655181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Rspec_portuguese_course" />
-    <SUITE FILE_PATH="coverage/Rspec_portuguese_course@Person__Informations.rcov" NAME="Person::Informations Coverage Results" MODIFIED="1678570311751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Rspec_portuguese_course" />
+    <SUITE FILE_PATH="coverage/Rspec_portuguese_course@Person__Informations.rcov" NAME="Person::Informations Coverage Results" MODIFIED="1678570632731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Rspec_portuguese_course" />
   </component>
 </project>
