@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93ff2f8b-4252-4ae4-b950-a3d0b2a58a1d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_3_4_23__12_31_PM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_3_4_23__12_31_PM__Changes_.xml" afterDir="false" />
+    <list default="true" id="93ff2f8b-4252-4ae4-b950-a3d0b2a58a1d" name="Changes" comment="deleted: calculator">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -226,6 +225,8 @@
       <workItem from="1677963870364" duration="251000" />
       <workItem from="1677964127316" duration="1118000" />
       <workItem from="1678040423995" duration="62000" />
+      <workItem from="1678367136503" duration="74000" />
+      <workItem from="1678368701227" duration="8000" />
     </task>
     <task id="LOCAL-00001" summary="document">
       <created>1677963915100</created>
@@ -241,7 +242,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677965203280</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="deleted: calculator">
+      <created>1678367189640</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678367189640</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,7 +269,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="document" />
     <MESSAGE value="test: machers equal" />
-    <option name="LAST_COMMIT_MESSAGE" value="test: machers equal" />
+    <MESSAGE value="deleted: calculator" />
+    <option name="LAST_COMMIT_MESSAGE" value="deleted: calculator" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Rspec_portuguese_course@Calculator_sum_two_negative_numbers.rcov" NAME="Calculator sum two negative numbers Coverage Results" MODIFIED="1677883399280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Rspec_portuguese_course" />
