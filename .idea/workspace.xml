@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93ff2f8b-4252-4ae4-b950-a3d0b2a58a1d" name="Changes" comment="test: have attributes">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hello_teste.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hello_teste.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spec/hello_teste_spec.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spec/hello_teste_spec.rb" afterDir="false" />
-    </list>
+    <list default="true" id="93ff2f8b-4252-4ae4-b950-a3d0b2a58a1d" name="Changes" comment="refactor: hello spec" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -270,7 +266,7 @@
       <workItem from="1678561999162" duration="22000" />
       <workItem from="1678568513001" duration="1036000" />
       <workItem from="1678569555616" duration="56000" />
-      <workItem from="1678569618593" duration="4889000" />
+      <workItem from="1678569618593" duration="5439000" />
     </task>
     <task id="LOCAL-00001" summary="document">
       <created>1677963915100</created>
@@ -307,7 +303,28 @@
       <option name="project" value="LOCAL" />
       <updated>1678570722660</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="build: matchers array">
+      <created>1678574634780</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678574634780</updated>
+    </task>
+    <task id="LOCAL-00007" summary="text: matchers array">
+      <created>1678574641450</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1678574641450</updated>
+    </task>
+    <task id="LOCAL-00008" summary="refactor: hello spec">
+      <created>1678574660166</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1678574660166</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -330,12 +347,15 @@
     <MESSAGE value="deleted: calculator" />
     <MESSAGE value="build: have attributes" />
     <MESSAGE value="test: have attributes" />
-    <option name="LAST_COMMIT_MESSAGE" value="test: have attributes" />
+    <MESSAGE value="build: matchers array" />
+    <MESSAGE value="text: matchers array" />
+    <MESSAGE value="refactor: hello spec" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor: hello spec" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Rspec_portuguese_course@Person__Informations_Attributes_detailed_attributs.rcov" NAME="Person::Informations Attributes detailed attributs Coverage Results" MODIFIED="1678570628744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Rspec_portuguese_course" />
     <SUITE FILE_PATH="coverage/Rspec_portuguese_course@calculator_spec.rcov" NAME="calculator_spec Coverage Results" MODIFIED="1677883351244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Rspec_portuguese_course" />
-    <SUITE FILE_PATH="coverage/Rspec_portuguese_course@Hello.rcov" NAME="Hello Coverage Results" MODIFIED="1678574446751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Rspec_portuguese_course" />
+    <SUITE FILE_PATH="coverage/Rspec_portuguese_course@Hello.rcov" NAME="Hello Coverage Results" MODIFIED="1678574594013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Rspec_portuguese_course" />
     <SUITE FILE_PATH="coverage/Rspec_portuguese_course@Person__Informations_have_attributes.rcov" NAME="Person::Informations have attributes Coverage Results" MODIFIED="1678570476335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Rspec_portuguese_course" />
     <SUITE FILE_PATH="coverage/Rspec_portuguese_course@Hello_print.rcov" NAME="Hello print Coverage Results" MODIFIED="1678574093344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Rspec_portuguese_course" />
     <SUITE FILE_PATH="coverage/Rspec_portuguese_course@matchers_arrays_spec.rcov" NAME="matchers_arrays_spec Coverage Results" MODIFIED="1678572437609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Rspec_portuguese_course" />
